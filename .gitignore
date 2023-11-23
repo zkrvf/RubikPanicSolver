@@ -1,0 +1,6 @@
+# Build files and directories
+build/
+dist/
+twophase/
+
+# Specific configuration files
